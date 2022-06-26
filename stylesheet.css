@@ -187,16 +187,20 @@ footer h2 {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
+.Lokasi .container .heading {
+  padding-bottom: 20px;
+}
+
 .Lokasi .container .heading h2{
   font-weight: normal;
-  padding: auto;
+  color: #5f5d60;
 }
 
 .Lokasi{
-  padding-bottom: 30px;
+  padding-bottom: 40px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color:#eee;
+  background-color:rgb(55 169 176 / 83%);
   text-align: center;
 }
 
@@ -205,7 +209,7 @@ footer h2 {
   padding-bottom: 15px;
   margin: auto;
   width: 57%;
-  background-color: rgb(55 169 176 / 83%);
+  background-color: #f7f7f7;
   box-sizing: border-box;
   border-radius: 40px;
 }
